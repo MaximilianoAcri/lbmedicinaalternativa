@@ -358,7 +358,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #2c4964;
+  color: #fff;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -387,7 +387,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(28, 47, 65, 0.9);
+  background: rgba(179, 179, 179, 0.9);
   transition: 0.3s;
   z-index: 999;
 }
