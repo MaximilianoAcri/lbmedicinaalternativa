@@ -916,7 +916,7 @@ section {
   width: 100%;
   position: relative;
   text-align: center;
-  background: #444444;
+  background: #ffffff;
 }
 
 .counts .count-box i {
@@ -925,8 +925,8 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 20px;
-  background: #ffffff;
-  color: #000000;
+  background: #000000;
+  color: #fff;
   border-radius: 50px;
   display: inline-flex;
   align-items: center;
@@ -939,7 +939,7 @@ section {
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: #ffffff;
+  color: #000;
 }
 
 .counts .count-box p {
@@ -947,7 +947,7 @@ section {
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #fff;
+  color: #000;
 }
 
 /*--------------------------------------------------------------
