@@ -232,6 +232,19 @@ h6 {
   }
 }
 
+.whatsapp-button {
+  background-color: #25D366;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  position: fixed;
+  bottom: 5%;
+  right: 5%;
+  z-index: 1000; 
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
